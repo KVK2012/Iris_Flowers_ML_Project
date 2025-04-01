@@ -2,7 +2,7 @@
 # 🌸 Iris Dataset ML Models
 
 This repository demonstrates the application of various Machine Learning models on the classic **Iris dataset**. The goal is to classify iris flowers among three species (*Iris-setosa, Iris-versicolor,* and *Iris-virginica*) based on their sepal and petal dimensions.
-This is basic and simple project to understand about the different machine learning models, the dataset is simple and precise just for sake of my understanding
+This is basic and simple project to understand about the different machine learning models perform which is the suitable one for the given dataset, the dataset is simple and precise just for sake of understanding how the python libraries perfomance on the data
 
 ---
 
